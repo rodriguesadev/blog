@@ -5,10 +5,10 @@ pubDate: 2024-02-12
 description: First post and greetings!
 author: Allan Rodrigues
 image:
-    url: 'https://res.cloudinary.com/dnot31hiv/image/upload/v1708127110/blog/w1v3rg4evbfceynthcap.png'
-    alt: 'Picture of my schedule displayed on the terminal'
+    url:
+    alt: 
 ---
-
+![Picture displaying a schedule on the termina](https://res.cloudinary.com/dnot31hiv/image/upload/f_auto,q_auto/v1/blog/bzxmzogezphjesgmcnuk "picture of my schedule")
 ## What I've accomplished
 
 **Context**: To steer my life in a new direction and fully transition into the tech world, I've enrolled in a Computer Science university program. A few days before the semester started, I realized I needed a schedule that I could quickly and easily access. That's when I decided to explore the feasibility of building one with ChatGPT. The answer turned out to be: quite feasible!
